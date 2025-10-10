@@ -2,8 +2,6 @@
 	Author: Gus Ballman
 	Class: CptS 122, Fall 2025; Lab Section 01
 	Date: 8/28/2025
-	Description:
-
 */
 
 #include "PA1.h"
@@ -48,4 +46,5 @@ int main(void)
 
 
 	return 0;
+
 }
