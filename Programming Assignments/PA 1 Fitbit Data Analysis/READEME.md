@@ -19,6 +19,4 @@ The program filters the dataset to include only the target patient, removes dupl
   + Average heart rate  
   + Maximum steps in a single minute  
   + Longest range of poor sleep  
-+ Outputs results to Results.csv and prints them to the console  
-
-## File Structure
++ Outputs results to Results.csv and prints them to the console
